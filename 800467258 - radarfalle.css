@@ -1,0 +1,13 @@
+@charset "utf-8";
+body {
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+#fragenr {
+	color: #309;
+}
+
+#fragebox {
+	background-color: #CCF;
+	width: 600px;
+}
